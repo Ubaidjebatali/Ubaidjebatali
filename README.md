@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Muhammad Ubaid Bin Ejabat Ali
 - 👀 I’m interested in Software Engineering
 - 🌱 "I’m currently studying AI applications as part of my three-year Higher NITEC program at ITE College West."
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns:
+- 💞️ I’m looking to collaborate on creating a user-friendly mobile app for various purposes.
+- 📫 You can reach me by emailing ubaidjebatali@gmail.com or through my linkedin account.
 - ⚡ Fun fact: I started my ITE education on year 2023.
 
 <!---
